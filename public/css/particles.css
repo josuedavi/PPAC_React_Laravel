@@ -1,0 +1,13 @@
+.btn {
+    background-color: #113768;
+    color: #fff;
+}
+
+.btn:hover{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
